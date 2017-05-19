@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mykey\desktop\курсовая\parser\parserone\parserone\main.cpp(14): warning C4800: const char *: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+c:\users\mykey\desktop\курсовая\parser\parserone\parserone\class.h(262): warning C4715: getPrior: значение возвращается не при всех путях выполнения
+c:\users\mykey\desktop\курсовая\parser\parserone\parserone\class.h(124): warning C4715: DynArr<Either<char,Either<MyString,double> > >::getAt: значение возвращается не при всех путях выполнения
+  ParserOne.vcxproj -> C:\Users\mykey\Desktop\курсовая\Parser\ParserOne\Debug\ParserOne.exe
+  ParserOne.vcxproj -> C:\Users\mykey\Desktop\курсовая\Parser\ParserOne\Debug\ParserOne.pdb (Full PDB)
